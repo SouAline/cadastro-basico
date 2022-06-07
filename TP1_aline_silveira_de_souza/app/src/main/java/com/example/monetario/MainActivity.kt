@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
 
         Thread{
             //aqui acontece em paralelo
-         val url = URL("https://free.currconv.com/api/v7/convert?q=${currency}_PHP&compact=ultra&apiKey=5641f207d40bb9e4f206") //utilizando a API de conversão de valores
+        val url = URL("https://free.currconv.com/api/v7/convert?q=${currency}_PHP&compact=ultra&apiKey=5641f207d40bb9e4f206") //utilizando a API de conversão de valores
         val conn = url.openConnection() as HttpsURLConnection
             try{
                 val data = conn.inputStream.bufferedReader().readText()
@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity() {
                     val res = obj.getDouble("${currency}_BRL")
 
                     result.text = "R$${"%.4f".format(value.toDouble() * res)}" //formata o valor que vem da API como Json e deixa com 4 casas decimais
-                    result.visibility = View.VISIBLE //aqui mostra o resultado, visto que o input resul está como "gone"
+                    result.visibility = View.VISIBLE //aqui mostra o resultado, visto que o input result está como "gone"
                 }
             }finally {
                 conn.disconnect()
