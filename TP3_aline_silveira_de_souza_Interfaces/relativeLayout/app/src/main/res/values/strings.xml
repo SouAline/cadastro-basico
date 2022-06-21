@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">relativeLayout</string>
+    <string name="colunaNome">NOME</string>
+    <string name="colunaSobrenome">SOBRENOME</string>
+    <string name="colunaIdade">IDADE</string>
+    <string name="nome1">João Silva</string>
+    <string name="sobrenome1">Moreira</string>
+    <string name="idade1">25</string>
+    <string name="nome2">Lorena</string>
+    <string name="sobrenome2">Souza</string>
+    <string name="idade2">35</string>
+    <string name="nome3">Juliano</string>
+    <string name="sobrenome3">Limoeiro</string>
+    <string name="idade3">31</string>
+</resources>
