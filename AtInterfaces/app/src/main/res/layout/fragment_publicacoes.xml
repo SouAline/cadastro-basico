@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/corFundo"
+    tools:context=".MainActivity">
+
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:layout_margin="48dp">
+
+        <TableRow
+            android:background="@color/purple_500">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:gravity="center_horizontal"
+                android:padding="10sp"
+                android:text="CURSO"
+                android:textColor="@android:color/white"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="TURNO"
+                android:textColor="@android:color/white"
+                android:padding="10sp"
+                android:textSize="18sp"
+                android:layout_weight="4"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="PROFESSOR"
+                android:textColor="@android:color/white"
+                android:padding="10sp"
+                android:textSize="18sp"
+                android:layout_weight="5"
+                android:gravity="center_horizontal" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="HTML/CSS"
+                android:padding="10sp"
+                android:textSize="16sp"
+                android:layout_weight="4"
+                android:gravity="center_horizontal" />
+
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="MANHÃ"
+                android:padding="10sp"
+                android:textSize="16sp"
+                android:layout_weight="4"
+                android:gravity="center_horizontal" />
+
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Prof. Cidcley"
+                android:padding="10sp"
+                android:textSize="16sp"
+                android:layout_weight="4"
+                android:gravity="center_horizontal" />
+
+
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="PM"
+                android:padding="10sp"
+                android:textSize="16sp"
+                android:layout_weight="4"
+                android:gravity="center_horizontal" />
+
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="NOITE"
+                android:padding="10sp"
+                android:textSize="16sp"
+                android:layout_weight="4"
+                android:gravity="center_horizontal" />
+
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Prof. Fernanda"
+                android:padding="10sp"
+                android:textSize="16sp"
+                android:layout_weight="4"
+                android:gravity="center_horizontal" />
+
+
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="DATA SCIENSCE"
+                android:padding="10sp"
+                android:textSize="16sp"
+                android:layout_weight="4"
+                android:gravity="center_horizontal" />
+
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="MANHÃ"
+                android:padding="10sp"
+                android:textSize="16sp"
+                android:layout_weight="4"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Prof. Luana"
+                android:padding="10sp"
+                android:textSize="16sp"
+                android:layout_weight="4"
+                android:gravity="center_horizontal" />
+
+        </TableRow>
+
+    </TableLayout>

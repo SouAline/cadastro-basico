@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/drawable/container_header.xml" value="0.141" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/drawable/ic_menu_camera.xml" value="0.349" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/drawable/side_nav_bar.xml" value="0.235" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/layout/activity_main.xml" value="0.22666666666666666" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/layout/app_bar_main.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/layout/content_main.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/layout/fragment_cursos.xml" value="0.232" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/layout/fragment_gallery.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/layout/fragment_home.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/layout/fragment_publicacoes.xml" value="0.26222826086956524" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/layout/fragment_slideshow.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/layout/nav_header_main.xml" value="0.3625" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/menu/activity_main_drawer.xml" value="0.34739583333333335" />
+        <entry key="..\:/Users/Aline/Desktop/AtInterfaces/app/src/main/res/menu/main.xml" value="0.34739583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

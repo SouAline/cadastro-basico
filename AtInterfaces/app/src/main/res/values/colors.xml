@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#EEACFA</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="corFundo">#F5ACF8</color>
+    <color name="corText">#102138</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
